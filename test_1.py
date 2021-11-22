@@ -2,6 +2,8 @@
 
 print("Experimenting with dev branch and pull requests.")
 
+print("Adding a new comment from dev branch.")
+
 print("Experimenting with feature branches.")
 print("Making multiple commits.")
 
